@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class LessonGitApplication {
 
     public static void main(String[] args) {
-        System.out.println("Program start ficha 1");
+        System.out.println("Program start ficha 2");
         SpringApplication.run(LessonGitApplication.class, args);
     }
 }
